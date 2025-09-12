@@ -19,6 +19,14 @@ body {
   --text-h4: 24px;
   --text-h5: 20px;
   --text-h6: 16px; 
+
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 18px;
+  --spacing-lg: 55px;
+  --spacing-xl: 60px;
+  --spacing-2xl: 80px;
+  --spacing-3xl: 96px; 
 }
 
 h1 {

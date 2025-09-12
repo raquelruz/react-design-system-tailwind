@@ -8,7 +8,7 @@ export const Hero = () => {
 					Make Your First <span className="text-primary">Impression</span> Count
 				</h1>
 
-				<p className="text-secondary text-base md:text-lg max-w-md mx-auto md:mx-0">
+				<p className="text-secondary text-base md:text-lg mx-auto md:mx-0">
 					Powerful self-serve product analytics to help you convert, engage and retain more users.
 				</p>
 
@@ -21,7 +21,7 @@ export const Hero = () => {
 			</div>
 
 			<div className="flex-1 flex justify-center md:justify-end">
-				<img src={imageOne} alt="Hero product" className="max-w-sm md:max-w-md lg:max-w-lg" />
+				<img src={imageOne} alt="Hero product" />
 			</div>
 		</section>
 	);

@@ -1,7 +1,11 @@
-import { Hero } from "../components/Hero"
+import { Hero } from "../components/Hero";
+import { OurClients } from "../components/OurClients";
 
 export const HomePage = () => {
-    return (
-        <Hero />
-    )
-}
+	return (
+		<>
+			<Hero />
+			<OurClients />
+		</>
+	);
+};
