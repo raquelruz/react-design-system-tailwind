@@ -4,6 +4,7 @@ import { FeaturesSection } from "../sections/FeaturesSection";
 import { CreateSection } from "../sections/CreateSection";
 import { GrowSection } from "../sections/GrowSection";
 import { FaqsSection } from "../sections/FaqSection";
+import { Footer } from "../sections/Footer";
 
 export const HomePage = () => {
 	return (
@@ -14,6 +15,7 @@ export const HomePage = () => {
             <CreateSection />
 			<GrowSection />
 			<FaqsSection />
+			<Footer />
 		</>
 	);
 };
