@@ -3,6 +3,7 @@ import { ClientsSection } from "../sections/ClientsSection";
 import { FeaturesSection } from "../sections/FeaturesSection";
 import { CreateSection } from "../sections/CreateSection";
 import { GrowSection } from "../sections/GrowSection";
+import { FaqsSection } from "../sections/FaqSection";
 
 export const HomePage = () => {
 	return (
@@ -12,6 +13,7 @@ export const HomePage = () => {
             <FeaturesSection />
             <CreateSection />
 			<GrowSection />
+			<FaqsSection />
 		</>
 	);
 };
