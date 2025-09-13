@@ -1,8 +1,8 @@
 import imageThree from "../media/images/content.png";
 
-export const Grow = () => {
+export const GrowSection = () => {
 	return (
-		<section class="w-full max-w-6xl mx-auto px-md text-center mb-3xl">
+		<section className="w-full max-w-6xl mx-auto px-md text-center mb-3xl">
 			<div className="m-md space-y-sm">
 				<h2>Let’s grow together</h2>
 				<p className="text-secondary md:mr-3xl md:ml-3xl">

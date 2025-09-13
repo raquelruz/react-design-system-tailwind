@@ -1,4 +1,4 @@
-export const Create = () => {
+export const CreateSection = () => {
 	return (
 		<div className="w-full max-w-6xl mx-auto px-md text-center mb-3xl">
 			<h3>Create Your First Personalized</h3>

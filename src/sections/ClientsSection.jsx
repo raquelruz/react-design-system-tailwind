@@ -4,7 +4,7 @@ import amazonLogo from "../media/images/Amazon_logo.png";
 import fedexLogo from "../media/images/FedEx_Express.png";
 import walmartLogo from "../media/images/Walmart_logo.png";
 
-export const OurClients = () => {
+export const ClientsSection = () => {
 	return (
 		<section className="w-full max-w-6xl mx-auto px-6 py-16 text-center">
 			<p className="text-secondary text-lg md-text-xl mb-10">Already loved and trusted by product teams</p>

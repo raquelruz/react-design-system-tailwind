@@ -1,17 +1,17 @@
 import { Hero } from "../components/Hero";
-import { OurClients } from "../components/OurClients";
-import { Features } from "../components/Features";
-import { Create } from "../components/Create";
-import { Grow } from "../components/Grow";
+import { ClientsSection } from "../sections/ClientsSection";
+import { FeaturesSection } from "../sections/FeaturesSection";
+import { CreateSection } from "../sections/CreateSection";
+import { GrowSection } from "../sections/GrowSection";
 
 export const HomePage = () => {
 	return (
 		<>
 			<Hero />
-			<OurClients />
-            <Features />
-            <Create />
-			<Grow />
+			<ClientsSection />
+            <FeaturesSection />
+            <CreateSection />
+			<GrowSection />
 		</>
 	);
 };
