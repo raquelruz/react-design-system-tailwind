@@ -21,11 +21,11 @@ body {
   --text-h6: 16px; 
 
   --spacing-xs: 4px;
-  --spacing-sm: 8px;
-  --spacing-md: 18px;
-  --spacing-lg: 55px;
-  --spacing-xl: 60px;
-  --spacing-2xl: 80px;
+  --spacing-sm: 14px;
+  --spacing-md: 24px;
+  --spacing-lg: 32px;
+  --spacing-xl: 50px;
+  --spacing-2xl: 65px;
   --spacing-3xl: 96px; 
 }
 
